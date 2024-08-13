@@ -17,7 +17,7 @@
 // -----------------------------------------------------------------------------
 
 // Number of guages
-int Nguages = 2;            // ゲージの数
+int Nguages = 3;            // ゲージの数
 
 // -----------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ int Nguages = 2;            // ゲージの数
 final String MQTThost = "mqtt://broker.hivemq.com";
 
 // MQTT topic
-final String MQTTtopic = "MGWS2308DAL/POTdemo3"; // MGWS2308DAL/POTdemo3 = Monogramming Workshop 2023-08 at Dalhousie / Potentiometer demo 3
+final String MQTTtopic = "monogramming/demo1"; // MGWS2308DAL/POTdemo3 = Monogramming Workshop 2023-08 at Dalhousie / Potentiometer demo 3
 
 // -----------------------------------------------------------------------------
 
