@@ -31,7 +31,8 @@
 
 // -----------------------------------------------------------------------------
 
-const WSURL = 'ws://broker.hivemq.com:8000/mqtt'
+// const WSURL = 'ws://broker.hivemq.com:8000/mqtt'
+const WSURL = 'ws://localhost:8083'
 // const WSURL = 'wss://broker.hivemq.com:8004/mqtt'
 // const WSURL = 'ws://test.mosquitto.org:8081'
 
